@@ -1,0 +1,114 @@
+body{
+    padding: 0px;
+}
+nav{
+    background-color: black;
+}
+nav img{
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
+
+ul li a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+h5{
+    padding-top: 1.2em;
+    margin-right: 7.5em;
+    color:rgb(27, 27, 65);
+    font-family:Arial, Helvetica, sans-serif;
+}
+nav .btn{
+    background-color: rgb(27, 27, 65);
+    margin-left: 1em;
+    font-size: 18px;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+ section .btn{
+    background-color: rgb(27, 27, 65);
+    margin-left: 1em;
+    margin-bottom: 0.5rem;
+    width: 10rem;
+    font-size: 18px;
+    margin-top: 3em;
+    color: white;
+}
+.carousel-caption{
+    top: 25em;
+    color:black;
+}
+.writeup{
+    text-align: justify;
+    padding-top: 2.5rem;
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
+}
+
+
+.col-sm-2{
+    margin-left: 4.5rem;
+}
+.col-sm-2 img{
+    width: 10rem;
+    height: 10rem;
+}
+a :hover{
+    text-decoration: none;
+    color:rgb(155, 133, 177);
+}
+.card{
+    border: 0.1rem solid aliceblue;
+    border-radius: 0.6rem;
+}
+#btn{
+    margin-bottom: 3rem; 
+    margin-right: 5.5rem;
+    margin-left: 5.5rem;
+}
+.card button{
+    border: 0.1rem solid aliceblue;
+    background-color: aliceblue;
+    margin-bottom: 3rem; 
+}
+header h6{
+    border-right-color: 18px, black; 
+}
+
+
+
+section{
+    background-color: aliceblue;
+}
+h3{
+    padding: 5%;
+    color: rgb(26, 26, 54);
+}
+
+.container-fluid{
+    width: 100%;
+    padding: 0%;
+}
+.card-group{
+margin-right: 10%;
+margin-left: 10%;
+margin-top: 5%;
+
+}
+#work{
+    background-repeat: no-repeat;
+    display: block;
+    height: auto;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+
+}
+
+#footer{
+    background-color: black;
+    padding-left: 1.5rem;
+}
+
+
