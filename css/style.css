@@ -12,13 +12,9 @@ nav img{
 ul li a{
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.2rem;
+    color: white;
 }
-h5{
-    padding-top: 1.2em;
-    margin-right: 7.5em;
-    color:rgb(27, 27, 65);
-    font-family:Arial, Helvetica, sans-serif;
-}
+
 nav .btn{
     background-color: rgb(27, 27, 65);
     margin-left: 1em;
@@ -78,23 +74,28 @@ header h6{
 
 
 
-section{
-    background-color: aliceblue;
+#about{
+    background-color:ghostwhite;
 }
 h3{
     padding: 5%;
     color: rgb(26, 26, 54);
 }
 
-.container-fluid{
-    width: 100%;
-    padding: 0%;
-}
 .card-group{
 margin-right: 10%;
 margin-left: 10%;
 margin-top: 5%;
+margin-bottom: 5%;
 
+}
+.card-deck img{
+    height: 15rem;
+    border: 0.1rem solid aliceblue;
+    border-radius: 0.6rem;
+}
+.card-deck{
+    margin-bottom: 2rem; 
 }
 #work{
     background-repeat: no-repeat;
@@ -103,12 +104,12 @@ margin-top: 5%;
     width: 100%;
     padding-top: 1rem;
     padding-bottom: 5rem;
-
 }
 
 #footer{
     background-color: black;
-    padding-left: 1.5rem;
+    margin-top: 10rem;
+    padding: 1.5rem;
 }
 
 
